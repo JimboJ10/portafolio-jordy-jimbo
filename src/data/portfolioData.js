@@ -5,9 +5,9 @@ export const personalInfo = {
   title: "Desarrollador full-stack junior",
   location: "Huaquillas, El Oro, Ecuador",
   email: "jordyjimbo32@gmail.com",
-  phone: "+593 990836436",
+  phone: "",
   github: "https://github.com/JimboJ10",
-  cvFile: "./CV_JordyJimboOrtiz.pdf",
+  cvFile: "./CV_JordyJimbo.pdf",
   tagline:
     "Estudiante de Ingeniería en Tecnologías de la Información con interés real por construir productos web, APIs y apps móviles bien organizadas.",
   subtitle:
